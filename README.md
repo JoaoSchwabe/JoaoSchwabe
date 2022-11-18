@@ -16,7 +16,6 @@ I'm a 17 years old web and mobile developer
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
 <a href="https://dev.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="NodeJS" /></a>
-<a href="https://xbox.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" alt="xbox" /></a>
 
 </p>
 
@@ -38,5 +37,3 @@ I'm a 17 years old web and mobile developer
 
 </div>
 
-
-<p align="right">trying to be the best version of me</p>
