@@ -16,9 +16,10 @@ I'm a 17 years old web and mobile developer
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=3178c6" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-171717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
-<a href="https://dev.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" /></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="NodeJS" /></a>
-  <a href="https://https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-171717?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS" /></a>
+<a href="https://https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-171717?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS" /></a>
+<a href="https://dev.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 
 </p>
 
