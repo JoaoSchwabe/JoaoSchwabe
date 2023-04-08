@@ -27,7 +27,7 @@ I'm a 17 years old web and mobile developer
 
 <p align="left"> <a href="https://discord.com/users/482245936328998912" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/joao-schwabe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Me conheça melhor
+### Know me better
 <a href="https://portfolio-joaoschwabe.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfólio-171717?style=for-the-badge&logo=telegram&logoColor=white" alt="porfolio" /></a>
 
 
